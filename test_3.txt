@@ -1,0 +1,5 @@
+Marseilles 3000
+Tokyo 50000
+Berlin 35000
+Stockholm 5000
+Rio 28000

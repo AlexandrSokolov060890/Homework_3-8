@@ -1,0 +1,3 @@
+computer: 100 50 20
+physics: 30 0 10
+physical: 0 30 0
